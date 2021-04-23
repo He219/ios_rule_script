@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-23 02:25:21
+# UPDATED: 2021-04-24 02:24:28
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 28
-# DOMAIN-SUFFIX: 12702
-# DOMAIN: 14882
+# DOMAIN-SUFFIX: 12694
+# DOMAIN: 14874
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 296
-# TOTAL: 28067
+# TOTAL: 28051
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -49,6 +49,7 @@
 0f461325bf56c3e1b9.com
 0fmm.com
 0gctp5ht.top
+0gw7e6s3wrao9y3q.pro
 0icep80f.com
 0ka.com
 0koryu0.easter.ne.jp
@@ -274,7 +275,6 @@
 360tag.net
 360yield.com
 36500.com
-36500.net
 365sbaffiliates.com
 367e8bed2a847.com
 3761fcd24ef9281f5.com
@@ -413,7 +413,6 @@
 5nt1gx7o57.com
 5qg9ibt1a6.com
 5ubei.com
-5yfi7sy.com
 600z.com
 600zi.com
 602d76e204c032.com
@@ -1886,7 +1885,6 @@ allmygoodlife.com
 allmygreatestlife.com
 allmyverygreatlife.com
 allo-media.net
-allosponsor.com
 allowmailbox.com
 alloydigital.com
 allpass.salemwebnetwork.com
@@ -2551,7 +2549,6 @@ bcloudhost.com
 bcode.zhantai.com
 bcvcmedia.com
 bd.hao224.com
-bd.m.biqugeso.com
 bd1.heiguang.cn
 bd1.idgdmg.com.cn
 bd1.idgdmgroup.com.cn
@@ -3063,6 +3060,7 @@ buzzzoo.net
 bvakl.ifeng.com
 bwinpartypartners.com
 bxg68.com
+bxgjpocfz1g1jiwb.pro
 bxs.bilandgo.com
 by98.com
 byebye.ml
@@ -3386,10 +3384,10 @@ chitika.com
 chitika.net
 chmproxy.bid
 chnci.com
-chofezrj.com
 choices.truste.com
 chokertraffic.com
 choogeet.net
+chopstick16.com
 chordeez.net
 christiantop1000.com
 christmalicious.com
@@ -5051,6 +5049,7 @@ ee.f2z4d.cn
 ee.hx623.cn
 ee.j5s9b.cn
 ee.mfufanj.cn
+ee.mtmfjdo.cn
 ee.u4q2.cn
 ee.w82ph.cn
 ee.wh723.cn
@@ -5599,7 +5598,6 @@ fmstigat.online
 fn-pz.com
 fncash.com
 fncnet1.com
-fnggdlzncynqx.com
 foaks.com
 foastail.net
 foavistu.net
@@ -7128,7 +7126,6 @@ iwkrvexersoof.com
 iwlnzreu5vlx.com
 iwstats.com
 ixiaa.com
-ixlkoyqqikmwb.com
 ixnp.com
 ixoox.csheaven.com
 ixspublic.com
@@ -7169,7 +7166,6 @@ javacript.gq
 javacript.tk
 javbucks.com
 jaymancash.com
-jbqeyfrli.com
 jbrlsr.com
 jc.bubbleandyeson.com
 jc.lgtianma.cn
@@ -7943,6 +7939,7 @@ luckytidy.info
 lucretius-ada.com
 lugansk-info.ru
 luhtb.top
+lulumao.com.cn
 lumatag.co.uk
 lumberamount.com
 lumeo.cn
@@ -8041,6 +8038,7 @@ m.maiduoer.com
 m.mcnnic.com
 m.mffcf.cn
 m.mfufanj.cn
+m.mtmfjdo.cn
 m.nkjfzq43034.cn
 m.nqut.cn
 m.ocenp.com
@@ -8722,6 +8720,7 @@ mxsuikhqaggf.com
 mxtads.com
 my-material.zone1.meitudata.com
 my-ranking.de
+my-stats.info
 my.leadpages.net
 myadcash.com
 myadstack.net
@@ -9355,7 +9354,6 @@ onvertise.com
 onvictinitor.com
 oodraune.com
 oodsotso.com
-oojthlwtlu.com
 ooksu.frost-electric-supply.com
 oolsi.frost-electric-supply.com
 ooo.0o0.ooo
@@ -10629,7 +10627,6 @@ rbnt.org
 rbxtrk.com
 rcads.net
 rckpwmhqz.com
-rcogzcsan.com
 rcscaxhjmm.com
 rcurn.com
 rd.rakuten.co.jp
@@ -11222,7 +11219,6 @@ sdkauth.hpplay.cn
 sdkconfig.play.aiseet.atianqi.com
 sdksp.video.qq.com
 sdlzmm.cn
-sdn.scset.com.cn
 sdyongyan.com.cn
 sea-nov-1.com
 seal.godaddy.com
@@ -12329,7 +12325,6 @@ surgeprice.com
 surroundtm.com
 survey-poll.com
 survey.constantcontact.com
-survey.io
 surveyend.com
 surveygizmo.com
 surveyscout.com
@@ -12407,7 +12402,6 @@ t-abi.hypers.com.cn
 t-analytics.com
 t.58xs.com
 t.91dijiu.com
-t.beibeia.top
 t.dailymail.co.uk
 t.dgm-au.com
 t.geedai.com
@@ -12998,7 +12992,6 @@ trafficvance.com
 trafficwave.net
 trafficz.com
 trafficzap.com
-traffikcntr.com
 traffim.com
 trafforsrv.com
 trafic-media.ru
@@ -13686,7 +13679,6 @@ vizzit.se
 vjie.com
 vjsticdegj.com
 vjsxvihazrwypb.com
-vjuvorqe.com
 vkaofq64zz.com
 vkcdnservice.com
 vkont.bos.ru
@@ -14569,7 +14561,6 @@ yashi.com
 yatab.net
 yaudience.com
 yaxujiancai.cn
-yazcash.com
 yb0t.com
 ybotvisit.com
 yceml.net
@@ -14885,6 +14876,7 @@ zyiis.net
 zylotcosp.com
 zymbrlgu.cn
 zypenetwork.com
+zyxmnqkt.com
 zzad.com
 zzb6.cn
 zzbb1.top
@@ -16502,7 +16494,6 @@ zzvvzfiwyfq.com
 .ads.house365.com
 .ads.internal.unity3d.com
 .ads.lejuliang.com
-.ads.linkedin.com
 .ads.mojicdn.com
 .ads.msn.com
 .ads.newtentionassets.net
@@ -20278,7 +20269,6 @@ zzvvzfiwyfq.com
 .grjs06.com
 .groackam.com
 .groupa.onlylady.com
-.growingio.com
 .grtnahd.cn
 .grubsoan.com
 .gs307.com
@@ -23174,7 +23164,6 @@ zzvvzfiwyfq.com
 .nq93jx1vpq9r.com
 .nqfwx.cn
 .nqrkzcd7ixwr.com
-.nr-data.net
 .nr1234.com
 .nryiou.cn
 .ns1.chinayms.com
@@ -24113,7 +24102,6 @@ zzvvzfiwyfq.com
 .quanjiapp.cn
 .quansj.cn
 .quantcount.com
-.quantserve.com
 .quavomi.com
 .qucaigg.com
 .queene.cn
@@ -24680,7 +24668,6 @@ zzvvzfiwyfq.com
 .security.browser.miui.com
 .seepsocu.net
 .seerpiu002.com
-.segment.com
 .self-study-service.com.cn
 .sell1.etlong.com
 .senolati.com
@@ -24914,7 +24901,6 @@ zzvvzfiwyfq.com
 .soarfi.cn
 .sobar.baidu.com
 .sobartop.baidu.com
-.socdm.com
 .social-touch.com
 .socket.streamable.com
 .sod.onelink.me
@@ -25366,7 +25352,6 @@ zzvvzfiwyfq.com
 .taifouwo.com
 .tajs.qq.com
 .tajxgs.com
-.talkingdata.com
 .tamechangekn.info
 .tangeb.com
 .tango-deg.com
@@ -25851,7 +25836,6 @@ zzvvzfiwyfq.com
 .udc.msn.com
 .udorik.com
 .udpolimenew.baidu.com
-.udrig.com
 .udrwyjpwjfeg.com
 .ue.yeyoucdn.com
 .ueadlian.com

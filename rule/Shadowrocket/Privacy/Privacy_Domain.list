@@ -1,11 +1,11 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-19 02:19:17
-# DOMAIN-SUFFIX: 6635
+# UPDATED: 2021-04-24 02:24:30
 # DOMAIN: 20
-# TOTAL: 6655
-api.talkingdata.com
+# DOMAIN-SUFFIX: 6658
+# TOTAL: 6678
+api.miwifi.com
 hm.baidu.com
 hmma.baidu.com
 js.users.51.la
@@ -271,6 +271,7 @@ zgsdk.zhugeio.com
 .adobetp.chegg.com
 .adobetps.chegg.com
 .ads-trk.vidible.tv
+.ads.linkedin.com
 .adtd.douglas.at
 .adtd.douglas.de
 .adtd.douglas.pl
@@ -306,6 +307,7 @@ zgsdk.zhugeio.com
 .ai.iol.io
 .ai.mist.com
 .aiea6gaza.com
+.airpr.com
 .ajbeqy.delfi.lt
 .akatracking.esearchvision.com
 .al-smetrics.vizio.com
@@ -1856,6 +1858,7 @@ zgsdk.zhugeio.com
 .gi7a.structube.com
 .gia.jd.com
 .gift2pair.com
+.giocdn.com
 .gj.mmstat.com
 .gjr5.yoigo.com
 .gkfdkf.jdsports.co.uk
@@ -1884,7 +1887,6 @@ zgsdk.zhugeio.com
 .go.mvtec.com
 .go.oracle.com
 .go.oroinc.com
-.go.pardot.com
 .go.phhlending.com
 .go.transversal.com
 .go.tuv.com
@@ -1900,6 +1902,7 @@ zgsdk.zhugeio.com
 .gramombird.com
 .green-griffin-860.appspot.com
 .grow1maid.com
+.growingio.com
 .gsasolutionssecure.gsa.gov
 .gsp1.baidu.com
 .guq9.vente-unique.it
@@ -1909,6 +1912,7 @@ zgsdk.zhugeio.com
 .gxjnyy.contorion.fr
 .gycyms.backmarket.de
 .gyvcwd.cdiscount.com
+.gz-data.com
 .gzsqhu.patirti.com
 .h.cliphunter.com
 .h.imedia.cz
@@ -1982,11 +1986,14 @@ zgsdk.zhugeio.com
 .hoseyy.prettylittlething.com
 .host10.hotelissima.fr
 .host11.vrgh-arena.nl
+.hotjar.com
+.hotjar.io
 .hpr.outbrain.com
 .hqgkmj.marine-deals.co.nz
 .hrum.hotelsapi.io
 .hrwgsq.loesdau.de
 .hrz8.muchoviaje.com
+.hs-analytics.net
 .hsasqc.randewoo.ru
 .hspbotdetection.azurewebsites.net
 .hthzoa.notino.hu
@@ -2218,6 +2225,7 @@ zgsdk.zhugeio.com
 .kiks.auto.ru
 .kilo6alga.com
 .kinesisproxy.hearstlabs.com
+.kissmetrics.com
 .kitchen.juicer.cc
 .kkz.net.krankenkassenzentrale.de
 .kkznoe.autouncle.it
@@ -2278,6 +2286,7 @@ zgsdk.zhugeio.com
 .lh.secure.yahoo.com
 .lhewdj.fnac.pt
 .liacod.sephora.ru
+.liadm.com
 .licensing.bitmovin.com
 .lift.acquia.com
 .lilb2.shutterstock.com
@@ -3152,6 +3161,7 @@ zgsdk.zhugeio.com
 .nova.dice.net
 .npylsv.libertatea.ro
 .nqcbgz.cocopanda.se
+.nr-data.net
 .nra.locktonaffinity.net
 .nrg.red-by-sfr.fr
 .ns.rvmkitt.com
@@ -3374,6 +3384,7 @@ zgsdk.zhugeio.com
 .pam.nextinpact.com
 .pampopholf.com
 .pap.zalando.de
+.pardot.com
 .partner.cynapse.com
 .partners.badongo.com
 .partners.mysavings.com
@@ -3605,6 +3616,7 @@ zgsdk.zhugeio.com
 .qlsngs.paruvendu.fr
 .qlzn6i1l.com
 .qnbskk.oqvestir.com.br
+.quantserve.com
 .qubitanalytics.appspot.com
 .qvnpxc.technopark.ru
 .qymjpg.star-tex.ru
@@ -3925,13 +3937,19 @@ zgsdk.zhugeio.com
 .securemetrics.gap.com
 .securetracking.eaton.com
 .securite.01net.com
+.seewhy.com
 .seg.sharethis.com
+.segment.com
+.segment.io
+.segmentify.com
 .sem.triboomedia.it
 .seniorliving.ascanet.com
 .seniorliving.theridgeseniorliving.com
+.sentiance.com
 .serv1swork.com
 .servcliente.marathon-sports-ec.com
 .servedby.o2.co.uk
+.serverbid.com
 .service-stat.tbn.ru
 .service.frankwatching.com
 .serviceo.comcast.net
@@ -3942,6 +3960,7 @@ zgsdk.zhugeio.com
 .servicetick.com
 .session-tracker.badcreditloans.com
 .session.timecommerce.net
+.sessionm.com
 .seyfwl.smaker.pl
 .sfgysl.ppomppu.co.kr
 .sflvqq.pleinoutlet.com
@@ -3978,6 +3997,7 @@ zgsdk.zhugeio.com
 .sls2.loisirsencheres.com
 .sm.edweek.org
 .smartbroker.efscle.com
+.smartlook.com
 .smetc.banfield.com
 .smetric.4imprint.com
 .smetric.lake.jp
@@ -4565,6 +4585,10 @@ zgsdk.zhugeio.com
 .so.boh.com
 .so.swisscom.ch
 .so8.hyatt.com
+.socdm.com
+.socialannex.com
+.socialbakers.com
+.sociaplus.com
 .software.seek.intel.com
 .solar.sharpmarketing.eu
 .solliciteren.bpost.be
@@ -5058,6 +5082,7 @@ zgsdk.zhugeio.com
 .states.newegg.ca
 .states.newegg.com
 .states.neweggbusiness.com
+.stathat.com
 .statistic.qzone.qq.com
 .statistic.takungpao.com
 .statistics.crowdynews.com
@@ -5073,6 +5098,7 @@ zgsdk.zhugeio.com
 .statm.the-adult-company.com
 .stats-dc1.frz.io
 .stats-factory.digitregroup.io
+.stats-locations.com
 .stats-messages.gifs.com
 .stats-newyork1.bloxcms.com
 .stats-ssl.mdanderson.org
@@ -5306,7 +5332,6 @@ zgsdk.zhugeio.com
 .sugar.gameforge.com
 .sugh8yami.com
 .sugs.m.sm.cn
-.sumologic.com
 .suncanny.marvel.com
 .supertraders.club
 .supertraders.info
@@ -5315,7 +5340,6 @@ zgsdk.zhugeio.com
 .support2.flex.com
 .survey.interquest.com
 .surveys.cnet.com
-.survicate.com
 .sut.dailyfx.com
 .sut.dailyfx.com.hk
 .svr007phz.com
@@ -5515,6 +5539,7 @@ zgsdk.zhugeio.com
 .tagtracking.vibescm.com
 .tagx.nytimes.com
 .tailtarget.com
+.talkingdata.com
 .talkingdata.net
 .tank3pull.com
 .tantrumall.club
@@ -5558,7 +5583,6 @@ zgsdk.zhugeio.com
 .te.universal.at
 .te.witt-weiden.de
 .te.yourhome.de
-.tealiumiq.com
 .team8save.com
 .technology.informaengage.com
 .ted.dailymail.co.uk
@@ -5670,7 +5694,6 @@ zgsdk.zhugeio.com
 .tp.yomonda.de
 .tp.yourhome.de
 .tpa7.iahorro.com
-.tpctrust.com
 .tpubrk.eobuv.com
 .tpx.tesseradigital.com
 .tqvacq.intrend.it
@@ -6142,7 +6165,6 @@ zgsdk.zhugeio.com
 .trckr.nordiskemedier.dk
 .trecker.aklamio.com
 .tremorhub.com
-.tremormedia.com
 .trends.newsmaxwidget.com
 .trezor.efscle.com
 .trf.intuitwebsites.com
@@ -6232,6 +6254,7 @@ zgsdk.zhugeio.com
 .ubxvdx.accuweather.com
 .ucltob.cascioligroup.it
 .udgrbq.malwarebytes.com
+.udrig.com
 .uedvam.tatilsepeti.com
 .uestat.video.qiyi.com
 .ufnmjz.brosa.com.au

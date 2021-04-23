@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-23 02:25:21
+# UPDATED: 2021-04-24 02:24:28
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 59
-# DOMAIN-SUFFIX: 46983
-# DOMAIN: 20676
+# DOMAIN-SUFFIX: 46986
+# DOMAIN: 20660
 # IP-CIDR: 247
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 68268
+# TOTAL: 68255
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -81,7 +81,6 @@
 100webads.com
 101billion.com
 101homeschool.com
-101malls.com
 101order.com
 102.112.207.net
 104231.dtiblog.com
@@ -104,7 +103,6 @@
 123laceypink.com
 123locker.com
 123plays.com
-123sheying.com
 123vidz.com
 12648afd00d93.com
 1278725189.pub.ezanga.com
@@ -260,6 +258,7 @@
 39dvd-999.com
 3amcouk.skimlinks.com
 3angelsvideo.com
+3animalsex.com
 3ba87e4828c5a95.com
 3d55eccf56053ff2e8.com
 3dbluerayplayer.com
@@ -2343,7 +2342,6 @@ advmusic.net
 advocatechauhanbs.com
 advplace.com
 advserver.xyz
-advsmedia.com
 advt.webindia123.com
 advzilla.com
 adwaengg.com
@@ -3034,6 +3032,7 @@ api.liveclicker.net
 api.mcwbiz.com
 api.mediavoice.com
 api.micloud.xiaomi.net
+api.miwifi.com
 api.mobpalm.com
 api.mobpowertech.com
 api.newshuntads.com
@@ -4955,7 +4954,6 @@ cdn.ndparking.com
 cdn.nsimg.net
 cdn.onedigitalad.com
 cdn.onescreen.net
-cdn.pardot.com
 cdn.promo.pimproll.com
 cdn.qc.coccoc.com
 cdn.rdrads.com
@@ -6834,6 +6832,7 @@ dodowind.com
 dofeb.frenchgerlemanelectric.com
 dofuskamas-generateur.com
 dofuskamasgenerateur.com
+dog-portrait.com
 doggyhealthy.com
 dogwuyrspt.com
 dohs95d6tfj19.cloudfront.net
@@ -8989,7 +8988,6 @@ glsnqx.babala365.cn
 glucorade.com
 glunhb.txzj88.cn
 glutenfreeadventurer.com
-glxccx.hztaida.cn
 gm.symcd.com
 gmailhack.top
 gmailhackerpro.com
@@ -9295,7 +9293,6 @@ guide2poker.com
 guidedemo.inq.com
 guidedemo.touchcommerce.com
 guidetopetersburg.com
-guildofangels.net
 gulabdevi.org
 gulf-industrial.com
 gulfpros.net
@@ -9592,7 +9589,6 @@ hearthstonehack.com
 heartrevitalized.com
 heartstrongyoga.com
 heatherwoodphoto.com
-hebdotop.com
 hebronrc.org
 hedinhall.com
 hedmanconst.com
@@ -10319,7 +10315,6 @@ info527.000webhostapp.com
 infocentroidtech.com
 infodocsportal.com
 infomas11.000webhostapp.com
-infomobilhonda.com
 infonovia.com
 informacja-dnia.com
 information.com
@@ -11540,7 +11535,6 @@ livecheat.com
 liveclicker.net
 liveclix.net
 livecodehack.com
-livedecnow.com
 livedecwow.com
 livefixer.com
 livehacksource.com
@@ -13487,7 +13481,6 @@ oascentral.law.com
 oascentral.prodivnet.com
 oascentral.rcrnews.com
 oascentral.redherring.com
-oascentral.sfgate.com
 oascentral.stackmag.com
 oascentral.theonion.com
 oascentral.thephoenix.com
@@ -14222,7 +14215,6 @@ phsihaikeji.com
 phunware.com
 phytolast.com
 pi-chin-cha.webcindario.com
-pi.pardot.com
 pianotravel.com
 pic.h0817.com
 picgf.ppbk9.com
@@ -14828,7 +14820,6 @@ psvitaromsgames.com
 psychotherapiehaarlem.com
 pt5.titans-gel.net
 ptads.sv.publicus.com
-ptllantas.com
 ptmontessori.com
 ptp123.com
 ptpscollege.org
@@ -15885,9 +15876,7 @@ sdk.accountkit.com
 sdk.apptimize.com
 sdk.eqmob.com
 sdk.native123.com
-sdk.stats-locations.com
 sdkangjie.com
-sdks.stats-locations.com
 se.adserver.yahoo.com
 sea.net.edu.cn
 seadform.net
@@ -16128,7 +16117,6 @@ serviowa.sytes.net
 servserv.generals.ea.com
 sesilgavignon.com
 sessionbutter.cn.com
-sessionm.com
 setjetters.com
 settings-win.data.microsoft.com
 settlecruise.org
@@ -16518,7 +16506,6 @@ slickaffiliate.com
 slickjump.net
 slicktext.com
 slightlyoffcenter.net
-slimming21cn.com
 slipperysack.com
 slontube.net
 slopeac.com
@@ -17352,6 +17339,7 @@ superpackdlc.sharezips.net
 superqualitypackers.com
 supersite.xyz
 supersonicads-a.akamaihd.net
+superstarpanda.com
 supertop100.com
 supertracker.flashget.com
 supertura.com
@@ -17640,9 +17628,6 @@ te.advance.net
 te.astrology.com
 te.chron.com
 te.cleveland.net
-te.greenwichtime.com
-te.mysanantonio.com
-te.sfgate.com
 te.thestar.com
 te.versiontracker.com
 teachac.com
@@ -19030,7 +19015,6 @@ v2mlemerald.com
 v2profit.com
 v3.toolbar.soso.com
 v3m.youzu.com
-v3rjvtt.com
 v4download.com
 v5.chinoc.net
 v7.stats.avast.com
@@ -19040,7 +19024,6 @@ v8push.pinsightmedia.com
 vaccgenocide.wordpress.com
 vaccineu.com
 vadideo.com
-vaigowoa.com
 vaingloryhack.net
 vaishaligarden.com
 vaishalimotors.com
@@ -20680,6 +20663,7 @@ zxl1102.000webhostapp.com
 zybxchina.com
 zyngatables.com
 zytpirwai.net
+zyxmnqkt.com
 zz999350.com
 zzcw.uuzham.com
 zzhengre.com
@@ -39154,7 +39138,6 @@ zzz.clickbank.net
 .go.pageuppeople.com
 .go.pal-planning.jp
 .go.panasonic.biz
-.go.pardot.com
 .go.pardot.cookpad.com
 .go.particular.net
 .go.patrontechnology.com
@@ -40023,6 +40006,7 @@ zzz.clickbank.net
 .gyvxojjeamipc.com
 .gyzjvioumudlx.com
 .gz-bz.cn
+.gz-data.com
 .gz.hxdaka.com
 .gz00005.top
 .gz06x5tqlj.com
@@ -51015,6 +50999,7 @@ zzz.clickbank.net
 .parchmentwhale.com
 .parcle.io
 .parding.info
+.pardot.com
 .parentful.club
 .paripartners.ru
 .parisianmacao.bet
@@ -55783,6 +55768,7 @@ zzz.clickbank.net
 .sensor.org.ua
 .sensors.cloud.tencent.com
 .sensorsdata.ruguoapp.com
+.sentiance.com
 .sentry.io
 .senzapudore.it
 .senzari.com
@@ -55867,6 +55853,7 @@ zzz.clickbank.net
 .session-tracker.badcreditloans.com
 .session.timecommerce.net
 .sessioncam.com
+.sessionm.com
 .sessions.exchange
 .sessionstack.com
 .sestat.baidu.com
@@ -57325,6 +57312,7 @@ zzz.clickbank.net
 .social.dw.de
 .social9.com
 .socialannex.com
+.socialbakers.com
 .socialbars-web1.com
 .socialbars-web4.com
 .socialbirth.com
@@ -58488,6 +58476,7 @@ zzz.clickbank.net
 .statpipe.ru
 .stats-dc1.frz.io
 .stats-factory.digitregroup.io
+.stats-locations.com
 .stats-messages.gifs.com
 .stats-newyork1.bloxcms.com
 .stats-ssl.mdanderson.org
@@ -59184,7 +59173,6 @@ zzz.clickbank.net
 .sumo.com
 .sumofainstuff.com
 .sumokoin.com
-.sumologic.com
 .sumome.com
 .sums.suning.com
 .suncanny.marvel.com
@@ -61024,7 +61012,6 @@ zzz.clickbank.net
 .tpb.tw
 .tpbpiratbay.cl
 .tpbproxyone.org
-.tpctrust.com
 .tpdads.com
 .tpe163.com
 .tplpages.com
