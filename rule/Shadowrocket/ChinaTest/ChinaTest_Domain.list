@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-24 02:24:31
-# DOMAIN-SUFFIX: 70444
+# UPDATED: 2021-04-25 02:23:07
+# DOMAIN-SUFFIX: 70448
 # USER-AGENT: 32
 # DOMAIN: 76
 # IP-CIDR: 57
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 70623
+# TOTAL: 70627
 265.com
 2mdn.net
 adservice.google.com
@@ -464,7 +464,6 @@ www4-static.gog-statics.com
 .0438news.com
 .044045.com
 .04486.com
-.04518888.com
 .0452e.com
 .0453.com
 .0455zd.com
@@ -5353,6 +5352,7 @@ www4-static.gog-statics.com
 .557.net
 .5577.com
 .5588.tv
+.5599.com
 .55bbs.com
 .55cc.cc
 .55coin.com
@@ -6301,7 +6301,6 @@ www4-static.gog-statics.com
 .6tie.com
 .6v.com
 .6v68.com
-.6vdy.com
 .6vhao.tv
 .6vps.net
 .6wan.com
@@ -8750,6 +8749,7 @@ www4-static.gog-statics.com
 .agotools.com
 .agrantsem.com
 .agri35.com
+.agrittex.com
 .agriturismi-sicilia.com
 .agrochemshow.com
 .agrodt.com
@@ -9779,7 +9779,6 @@ www4-static.gog-statics.com
 .aniu.so
 .aniu.tv
 .anix.xyz
-.anji-auto.com
 .anji-ceva.com
 .anji-logistics.com
 .anji-tonghui.com
@@ -13757,6 +13756,7 @@ www4-static.gog-statics.com
 .caaladi.com
 .caanb.com
 .caaorg.com
+.caasbuy.com
 .caasse.com
 .caayee.com
 .cabbagebox.com
@@ -17070,6 +17070,7 @@ www4-static.gog-statics.com
 .cn360cn.com
 .cn365c.com
 .cn365d.com
+.cn365e.com
 .cn3k5.com
 .cn3v.net
 .cn3wm.com
@@ -17568,6 +17569,7 @@ www4-static.gog-statics.com
 .cnshipnet.com
 .cnshipping.com
 .cnsikao.com
+.cnsilkworm.com
 .cnsimin.com
 .cnskyit.com
 .cnsnpj.com
@@ -21731,7 +21733,6 @@ www4-static.gog-statics.com
 .dy-gold.com
 .dy.cm
 .dy008.com
-.dy131.com
 .dy1905.net
 .dy2018.com
 .dy2018.net
@@ -22033,7 +22034,6 @@ www4-static.gog-statics.com
 .easy-china.com
 .easy-linkholiday.com
 .easy-mock.com
-.easy136.com
 .easy2mine.com
 .easy2world.com
 .easy361.com
@@ -27823,7 +27823,6 @@ www4-static.gog-statics.com
 .haizhlink.com
 .haizhoumo.com
 .haizhuyx.com
-.haizihe.com
 .haizitong.com
 .hajjjc.com
 .haku77.com
@@ -33998,6 +33997,7 @@ www4-static.gog-statics.com
 .jhctbank.com
 .jhdqz.com
 .jhdxjk.com
+.jhessb.com
 .jhfl.com
 .jhforever.com
 .jhgtgb.com
@@ -34480,6 +34480,7 @@ www4-static.gog-statics.com
 .jinbitou.net
 .jinbuguo.com
 .jinchaodengji.com
+.jinchuan2014.com
 .jinchuang.org
 .jinchutou.com
 .jincin.com
@@ -34963,6 +34964,7 @@ www4-static.gog-statics.com
 .jjkucunxie.com
 .jjldbk.com
 .jjlsd.com
+.jjmatch.com
 .jjmh.com
 .jjmj.tv
 .jjmmw.com
@@ -39756,7 +39758,6 @@ www4-static.gog-statics.com
 .longigroup.com
 .longjcun.com
 .longjiazuo.com
-.longjushangcheng.com
 .longk.com
 .longlongweb.com
 .longmaosoft.com
@@ -43636,6 +43637,7 @@ www4-static.gog-statics.com
 .nbmao.com
 .nbmedicalsystem.com
 .nbow.net
+.nboxnas.com
 .nbpolytheatre.com
 .nbprido.com
 .nbsason.com
@@ -44751,6 +44753,7 @@ www4-static.gog-statics.com
 .ocone.loan
 .ocooca.com
 .ocpan.org
+.ocri-genomics.org
 .ocrmaker.com
 .ocsp.globalsign.com
 .ocsp2.globalsign.com
@@ -47141,7 +47144,6 @@ www4-static.gog-statics.com
 .pz7377.com
 .pz7533.com
 .pz779.com
-.pz81.com
 .pz88.com
 .pz997.com
 .pzds.com
@@ -49351,6 +49353,7 @@ www4-static.gog-statics.com
 .rich-healthcare.com
 .richba.com
 .richeninfo.com
+.riches.cloud
 .richiecn.com
 .richkays.com
 .richong.com
@@ -51242,6 +51245,7 @@ www4-static.gog-statics.com
 .shengqian51.com
 .shengqianlianmeng.net
 .shengqugames.com
+.shengsci.com
 .shengtaidianzi.com
 .shengtaireli.com
 .shengtian.com
@@ -53178,7 +53182,6 @@ www4-static.gog-statics.com
 .spacesystech.com
 .spacexlanding.com
 .sparenode.com
-.sparepart168.com
 .spark-app.store
 .spark4y.com
 .sparkandshine.net
@@ -65018,6 +65021,7 @@ www4-static.gog-statics.com
 .yeeyan.org
 .yeeyk.com
 .yeezhe.com
+.yef2.vip
 .yefu365.com
 .yegame.com
 .yegenyou.com

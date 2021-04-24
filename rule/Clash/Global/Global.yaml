@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-24 02:24:30
+# UPDATED: 2021-04-25 02:23:06
 # DOMAIN: 48
-# DOMAIN-SUFFIX: 28211
+# DOMAIN-SUFFIX: 28355
 # DOMAIN-KEYWORD: 42
 # IP-CIDR: 128
 # IP-CIDR6: 3
 # PROCESS-NAME: 1
-# TOTAL: 28433
+# TOTAL: 28577
 payload:
   - DOMAIN-KEYWORD,-spotify-com
   - DOMAIN-KEYWORD,-tiktokcdn-com
